@@ -1,0 +1,29 @@
+Q1: LU Decomposition (Doolittle)
+
+Matrix A:
+1.00 2.00 3.00
+3.00 8.00 14.00
+2.00 6.00 13.00
+
+Matrix L:
+1.00 0.00 0.00
+3.00 1.00 0.00
+2.00 1.00 1.00
+
+Matrix U:
+1.00 2.00 3.00
+0.00 2.00 5.00
+0.00 0.00 2.00
+
+Product L*U:
+1.00 2.00 3.00
+3.00 8.00 14.00
+2.00 6.00 13.00
+
+Verification: A = L*U (Verified)
+
+Q2: Solve Ax = b using Augmented Matrix
+
+Solution x:
+-1.7618 0.8962 4.0519 -1.6171 2.0419 0.1518
+
