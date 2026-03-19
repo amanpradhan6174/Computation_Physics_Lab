@@ -1,0 +1,8 @@
+======================================================================
+Monte Carlo Integration Summary: ∫₋₁→₁ sin²(x) dx
+======================================================================
+Exact value	: 0.54535129
+Final estimate	: 0.54621085
+Samples used (N)	: 15900
+Absolute error	: 8.596e-04
+Stop reason	: |F_N - exact| ≤ 0.001
