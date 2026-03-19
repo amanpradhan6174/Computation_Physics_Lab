@@ -1,0 +1,10 @@
+
+Forward Euler (dy/dx = y - x^2):
+Final y = -4.027750, Exact = -4.778112, Error = 7.50e-01
+Predictor-Corrector (dy/dx = y - x^2):
+Final y = -4.762785, Exact = -4.778112, Error = 1.53e-02
+
+Forward Euler (dy/dx = (x + y)^2):
+Final y = 2.969185, Exact = 4.731855, Error = 1.76e+00
+Predictor-Corrector (dy/dx = (x + y)^2):
+Final y = 4.404946, Exact = 4.731855, Error = 3.27e-01
