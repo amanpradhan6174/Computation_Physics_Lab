@@ -1,0 +1,6 @@
+Problem 1: Estimated y(6.7) = 33.500000
+
+Problem 2: Model Comparison
+Power law: y = 21.046352 * x^-0.537409, r^2 = 0.994518, sigma = 0.029864
+Exponential: y = 12.212993 * exp(-0.058456x), r^2 = 0.901792, sigma = 0.126405
+Better fit based on r^2: Power law

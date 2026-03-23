@@ -1,0 +1,13 @@
+Problem 1: Lagrange Interpolation
+Term 1: L_0(6.7)=0.240767, Contribution=2.407672
+Term 2: L_1(6.7)=-0.611679, Contribution=-9.175183
+Term 3: L_2(6.7)=0.950929, Contribution=23.773234
+Term 4: L_3(6.7)=0.435233, Contribution=17.409322
+Term 5: L_4(6.7)=-0.015251, Contribution=-0.915045
+Final interpolated y(6.7)=33.500000
+
+Problem 2: Curve Fitting (Power & Exponential)
+--- Power Law Details ---
+a=21.046352, b=-0.537409, r2=0.994518, sigma=0.029864
+--- Exponential Details ---
+a=12.212993, b=0.058456, r2=0.901792, sigma=0.126405
